@@ -35,11 +35,12 @@ It delivers a premium shopping experience with secure authentication, admin prod
 
 -----------------------------------------------------------------------------------------------------------
 
-🧠 Tech Stack
-Frontend	Backend	Database	Other Tools
-⚛ React.js	🟢 Node.js	🍃 MongoDB	☁ Cloudinary
-🎨 Tailwind CSS	🚂 Express.js	🌍 Atlas	🔐 JWT
-🎞 Framer Motion	📦 REST APIs		📡 Axios
+| Frontend         | Backend       | Database         | Other Tools  |
+| ---------------- | ------------- | ---------------- | ------------ |
+| ⚛ React.js       | 🟢 Node.js    | 🍃 MongoDB       | ☁ Cloudinary |
+| 🎨 Tailwind CSS  | 🚂 Express.js | 🌍 MongoDB Atlas | 🔐 JWT       |
+| 🎞 Framer Motion  | 📦 REST APIs  |                  | 📡 Axios     |
+
 
 -----------------------------------------------------------------------------------------------------------
 
@@ -97,14 +98,17 @@ https://drive.google.com/file/d/1mpBSfkLmASS4rv1ZttJmVDd0d5VOQfjn/view?usp=shari
 ⚙️ Installation & Setup
 
 1️⃣ Clone Repository
+
 git clone https://github.com/manikandancodes1-prog/NovaCart-MERN
 cd novacart-mern-ecommerce
 
 2️⃣ Install Dependencies
+
 Backend
 npm install
 
 Frontend
+
 cd client
 npm install
 
