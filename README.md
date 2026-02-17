@@ -1,4 +1,4 @@
-                                                                                 🛒 NovaCart
+                                                  🛒 NovaCart
                                                                                  
 🚀 Premium MERN Stack E-Commerce Platform
 <p align="center"> <b>Modern • Scalable • Production-Ready • Full-Stack Application</b> </p>
